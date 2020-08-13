@@ -1,0 +1,10 @@
+system/system/app/GoogleLatinInput/GoogleLatinInput.apk filter=lfs diff=lfs merge=lfs -text
+system/system/app/OppoCamera/OppoCamera.apk filter=lfs diff=lfs merge=lfs -text
+system/system/app/YouTube/YouTube.apk filter=lfs diff=lfs merge=lfs -text
+system/system/priv-app/Settings/Settings.apk filter=lfs diff=lfs merge=lfs -text
+system/system/priv-app/SystemUI/SystemUI.apk filter=lfs diff=lfs merge=lfs -text
+system/system/priv-app/VideoGallery/VideoGallery.apk filter=lfs diff=lfs merge=lfs -text
+system/system/app/Chrome/Chrome.apk filter=lfs diff=lfs merge=lfs -text
+system/system/priv-app/GmsCore/GmsCore.apk filter=lfs diff=lfs merge=lfs -text
+system/system/priv-app/OppoGallery2/OppoGallery2.apk filter=lfs diff=lfs merge=lfs -text
+system/system/priv-app/Velvet/Velvet.apk filter=lfs diff=lfs merge=lfs -text
